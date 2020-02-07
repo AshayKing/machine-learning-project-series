@@ -8,11 +8,11 @@ Hi Friends,
 
 |Topic|Note|Video Link|
 | ------ | ------ | ------ |
-| *Getting into ML* | Therotical introduction of Machine learning| [ ] |
-| *Project 1 : Classification with Titanic* | Practical Hands-on about applied ML techniques in solving Classification problem | [ ] |
-|*Project 2 : Regression with Housing Prices*| [ ] | [ ]|
-|*Project 3:Outlier with Credit Card Fraud*|[ ]| [ ]|
-|*Project 4:Anomaly with Time series*|[ ]| [ ]|
-|*Project 5:Clustering with NBA players*|[ ]| [ ]|
-|*Project 6: Its NLP*|[ ]| [ ]|
+| *Getting into ML* | Therotical introduction of Machine learning|  |
+| *Project 1 : Classification with Titanic* | Practical Hands-on about applied ML techniques in solving Classification problem |  |
+|*Project 2 : Regression with Housing Prices*|  | |
+|*Project 3:Outlier with Credit Card Fraud*|| |
+|*Project 4:Anomaly with Time series*|| |
+|*Project 5:Clustering with NBA players*|| |
+|*Project 6: Its NLP*|| |
 
