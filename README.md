@@ -9,7 +9,7 @@ Hi Friends,
 |Topic|Note|Video Link|
 | ------ | ------ | ------ |
 | *Getting into ML* | Therotical introduction of Machine learning| [checkbox:unchecked] |
-| *Project 1 : Classification with Titanic* | Practical Hands-on about applied ML techniques in solving Classification problem | [checkbox:unchecked] |
+| *Project 1 : Classification with Titanic* | Practical Hands-on about applied ML techniques in solving Classification problem | # [checkbox:unchecked] |
 |*Project 2 : Regression with Housing Prices*| [checkbox:unchecked] | [checkbox:unchecked]|
 |*Project 3:Outlier with Credit Card Fraud*|[checkbox:unchecked]| [checkbox:unchecked]|
 |*Project 4:Anomaly with Time series*|[checkbox:unchecked]| [checkbox:unchecked]|
