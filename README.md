@@ -9,10 +9,8 @@ Hi Friends,
 |Topic|Note|Link|
 | ------ | ------ | ------ |
 | *Getting into ML* | Therotical introduction of Machine learning|  |
-| *Data visualisation* | All required plots for data visualisation using seaborn|[seaborn-data-visualisation link](https://github.com/AshayKing/machine-learning-project-series/tree/master/seaborn-data-visualisation)
-  |
-| *Project 1 : Classification with Titanic* | Practical Hands-on about applied ML techniques in solving Classification problem | [Classfication with Titanic link](https://github.com/AshayKing/machine-learning-project-series/tree/master/Classification%20with%20Titanic)
- |
+| *Data visualisation* | All required plots for data visualisation using seaborn|[seaborn-data-visualisation link](https://github.com/AshayKing/machine-learning-project-series/tree/master/seaborn-data-visualisation)|
+| *Project 1 : Classification with Titanic* | Practical Hands-on about applied ML techniques in solving Classification problem | [Classfication with Titanic link](https://github.com/AshayKing/machine-learning-project-series/tree/master/Classification%20with%20Titanic)|
 |*Project 2 : Regression with Housing Prices*|  | |
 |*Project 3:Outlier with Credit Card Fraud*|| |
 |*Project 4:Anomaly with Time series*|| |
