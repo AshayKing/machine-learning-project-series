@@ -17,3 +17,7 @@ Hi Friends,
 |*Project 5:Clustering with NBA players*|| |
 |*Project 6: Its NLP*|| |
 
+
+
+https://www.kaggle.com/pavansanagapati/anomaly-detection-credit-card-fraud-analysis
+https://www.kaggle.com/kevinarvai/outlier-detection-practice-uni-multivariate
